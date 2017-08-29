@@ -1,3 +1,4 @@
+use max2017;
 Insert into  PatientDetail Values(not null,'Maggie' ,'Boyle','FEMALE','Yes');
 Insert into  PatientDetail Values(not null,'Faith' ,'Greene','MALE','Yes');
 Insert into  PatientDetail Values(not null,'Lacey' ,'Robertson','FEMALE','Yes');

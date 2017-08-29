@@ -1,3 +1,4 @@
+use smaxhospital2017;
 Insert into  PatientConfidential Values(1,'QDX4955');
 Insert into  PatientConfidential Values(2,'ECP7715');
 Insert into  PatientConfidential Values(3,'ZIK8925');
